@@ -1,4 +1,4 @@
-# Task Manager (Python)
+# Gerenciador de Tarefas
 
 ## Descrição
 

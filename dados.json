@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Estudar Python",
+        "descricao": "Revisar functions",
+        "prioridade": "Alta",
+        "status": "Concluida"
+    },
+    {
+        "titulo": "Estudar HTML e CSS",
+        "descricao": "Revisar conceitos no geral",
+        "prioridade": "Baixa",
+        "status": "Pendente"
+    }
+]
